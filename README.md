@@ -20,11 +20,13 @@ This portfolio highlights my progress, projects, study materials, and learning r
 
 | Folder | Contents |
 |--------|----------|
-| `SecurityPlus-Notes/` | Notes and summaries by domain from Security+ prep |
-| `CISA-Prep/` | Study plans, practice questions, and learning resources for CISA |
-| `Policies/` | Sample security and compliance policy documents I’ve written |
-| `NIST-800-53/` | Control breakdowns, use case applications, and mapped examples |
-| `Projects/` | Risk assessments, compliance checklists, and mini GRC exercises |
+| `SecurityPlus-Notes/`                     | Study notes, domain summaries, and foundational concepts for Security+ certification prep. |
+| `CISA-Prep/`                              | *Coming Soon* Study plans, practice questions, and curated learning resources for the CISA exam. |
+| `Cybersecurity-Processes-and-Technology/` | Case studies on supply chain risk, e-commerce security, and real-world application of cybersecurity frameworks. |
+| `Cybersecurity-in-Government-Organizations/` | Briefing papers and use case analyses focused on public sector risk, compliance, and open data challenges. |
+| `Technical-Writing/`                      | Instructional writing samples, cybersecurity memos, and user-centered documentation demonstrating communication skills. |
+| `Audit-Basics/`                           | *Coming Soon* Internal audit process guides, risk assessments, compliance checklists, and starter templates for audit planning. |
+
 
 ---
 
