@@ -16,24 +16,22 @@ This portfolio highlights my progress, projects, study materials, and learning r
 
 ---
 
-## 📂 Repository Structure
 
 ## 📁 Repository Structure
 
-| Folder                            | Description |
-|----------------------------------|-------------|
-| `Cybersecurity-Processes-and-Technology/` | Case studies on supply chain risk, e-commerce security, and application of cybersecurity frameworks that stem from coursework. |
-| `Cybersecurity-in-Government-Organizations/` | Briefing statements and newsletter-style articles focused on public sector risk, compliance, and open data challenges that stem from coursework. |
-| `SOX/`                            | Introductory notes and learning material related to Sarbanes-Oxley (SOX) compliance and audit readiness. |
-| `SecurityPlus-Notes/`            | Study notes, domain summaries, and foundational concepts aligned to CompTIA Security+ exam prep. |
-| `Technical-Writing/`             | Instructional documentation, business writing samples, and cybersecurity memos showcasing technical communication skills that stem from coursework. |
-| `nist-ai-rmf/`                   | Resources and summaries related to the NIST Artificial Intelligence Risk Management Framework. |
-| `nist-csf/`                      | NIST Cybersecurity Framework overview, core function breakdowns, and practical applications. |
-| `roadmap-to-GRC-analyst/`        | My curated learning journey and self-study roadmap to transition into a GRC Analyst role. |
-| `sox-nist-mapping/`             | Crosswalk and notes mapping SOX requirements to NIST 800-53 controls for compliance alignment. |
-| `supply-chain-security/`         | Risk analysis, threat modeling, and mitigation strategies for cyber and IT supply chain security. |
-| `Audit-Basics/`                           | *Coming Soon* Internal audit process guides, risk assessments, compliance checklists, and starter templates for audit planning. |
-| `CISA-Prep/`                              | *Coming Soon* Study plans, practice questions, and curated learning resources for the CISA exam. |
+| 📁 Folder                      | 📝 Description |
+|-------------------------------|----------------|
+| 🎓 `My_UMGC_Work/`            | Coursework from my UMGC cybersecurity program, including case studies, briefing statements, and technical writing samples. |
+| 📘 `Growing_in_NIST/`         | Resources, summaries, and applications of NIST frameworks (like CSF, AI RMF, and 800-53) with practical examples. |
+| 📊 `SOX_Learning/`            | Learning material related to Sarbanes-Oxley (SOX) compliance, SOX-to-NIST mapping, and audit readiness. |
+| 🔐 `SecurityPlus-Notes/`      | Study notes, domain summaries, and foundational concepts aligned to CompTIA Security+ exam prep. |
+| 🗺️ `My_roadmap-to-GRC-analyst/` | My curated learning journey and self-study roadmap to transition into a GRC Analyst role. |
+| 🧪 `Projects/`                | Risk analysis, threat modeling, and cybersecurity planning projects for coursework and independent learning. |
+| 🧾 `Audit-Basics/`            | *Coming Soon* Internal audit process guides, risk assessments, and compliance templates. |
+| 🧠 `CISA-Prep/`               | *Coming Soon* Study plans, practice questions, and curated learning resources for the CISA exam. |
+| 🧰 `Resources/`               | Templates, articles, and tools for cybersecurity learning, GRC documentation, and personal productivity. |
+
+
 
 ---
 
