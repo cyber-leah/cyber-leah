@@ -19,18 +19,20 @@ This portfolio highlights my progress, projects, study materials, and learning r
 
 ## 📁 Repository Structure
 
-| 📁 Folder                      | 📝 Description |
-|-------------------------------|----------------|
-| 🎓 `My_UMGC_Work/`            | Coursework from my UMGC cybersecurity program, including case studies, briefing statements, and technical writing samples. |
-| 📘 `Growing_in_NIST/`         | Resources, summaries, and applications of NIST frameworks (like CSF, AI RMF, and 800-53) with practical examples. |
-| 📊 `SOX_Learning/`            | Learning material related to Sarbanes-Oxley (SOX) compliance, SOX-to-NIST mapping, and audit readiness. |
-| 🔐 `SecurityPlus-Notes/`      | Study notes, domain summaries, and foundational concepts aligned to CompTIA Security+ exam prep. |
-| 🗺️ `My_roadmap-to-GRC-analyst/` | My curated learning journey and self-study roadmap to transition into a GRC Analyst role. |
-| 🧪 `Projects/`                | Risk analysis, threat modeling, and cybersecurity planning projects for coursework and independent learning. |
-| 🧾 `Audit-Basics/`            | *Coming Soon* Internal audit process guides, risk assessments, and compliance templates. |
-| 🧠 `CISA-Prep/`               | *Coming Soon* Study plans, practice questions, and curated learning resources for the CISA exam. |
-| 🧰 `Resources/`               | Templates, articles, and tools for cybersecurity learning, GRC documentation, and personal productivity. |
+## 📂 Repository Overview
 
+| 📁 Folder | 📄 Description |
+|----------|----------------|
+| 📘 `My_UMGC_Work/` | Coursework from my UMGC cybersecurity program, including case studies, briefing statements, and technical writing samples. |
+| 📙 `Growing_in_NIST/` | Resources, summaries, and applications of NIST frameworks (e.g., CSF, AI RMF, SP 800-53) with practical study aids. |
+| 📒 `SOX_Learning/` | Learning materials for Sarbanes-Oxley (SOX) compliance, SOX-to-NIST mapping, and audit readiness. |
+| 📗 `SecurityPlus-Notes/` | Study notes, exam prep, and domain summaries aligned with CompTIA Security+ objectives. |
+| 🗺️ `My_roadmap-to-GRC-analyst/` | My curated learning plan and self-study roadmap for transitioning into a cybersecurity GRC Analyst role. |
+| 🧪 `Projects/` | Risk analysis, threat modeling, compliance reports, and cybersecurity strategy projects for school and self-guided learning. |
+| 🧾 `Audit-Basics/` | Internal audit fundamentals, process overviews, risk assessments, and compliance templates. |
+| 🧰 `Resources/` | Templates, worksheets, articles, and tools for cybersecurity learning, documentation, and career prep. |
+| 🧱 `Frameworks/` | Study guides and reference materials for key cybersecurity frameworks, including ISO 27001, COBIT, and ITIL. |
+| 📜 `Standards/` | Detailed notes and summaries of regulatory standards like PCI DSS, HIPAA, DFARS, and FIPS. |
 
 
 ---
